@@ -1,0 +1,1 @@
+SELECT * FROM test_policy_table WHERE name LIKE 'john'
